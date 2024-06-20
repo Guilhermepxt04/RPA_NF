@@ -7,6 +7,7 @@ Este RPA é um bot para coletar notas fiscais de um portal da Claro e armazenar 
 
 O repositório publicado é apenas uma demo do projeto, pois o mesmo funcional e em produção não pode estar público 
 
+A parte do lançamento das informações coletadas foi feita de forma seperada 
 
 # Tecnologias utilizadas
 ## Back end
