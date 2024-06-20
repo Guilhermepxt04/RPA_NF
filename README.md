@@ -3,7 +3,8 @@
 
 # Sobre o projeto
 
-Este RPA é um bot para coletar notas fiscais de um portal da Claro e armazenar seus dados para fazer seu lançamento, feito quando identifiquei uma dor que consumia tempo na empresa que sou colaborador
+Este RPA é um bot para coletar notas fiscais de um portal da Claro (https://contaonline.claro.com.br/webbow/login/initPJ_oqe.do) 
+e armazenar seus dados para fazer seu lançamento, feito quando identifiquei uma dor que consumia tempo na empresa que sou colaborador
 
 O repositório publicado é apenas uma demo do projeto, pois o mesmo funcional e em produção não pode estar público 
 
