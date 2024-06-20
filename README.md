@@ -23,6 +23,9 @@ A parte do lançamento das informações coletadas foi feita de forma seperada
 ## Implantação em produção
 - Banco de dados: MySQL
 
+# Metodologia 
+- S.O.L.I.D
+
 # Autor
 
 Guilherme Peixoto Carvalho 
