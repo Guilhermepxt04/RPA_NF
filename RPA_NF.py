@@ -261,8 +261,8 @@ def upload_drive(file_path): #função para realizar upload no drive
         if e[0] == login:
             estado = str(e[1])
             
-    #nessa conta são NFs de serviços, mans nas outra sera seguranca
-    if login == 568587748:   
+    #nessa conta são NFs de serviços
+    if login == #:   
         file_name = os.path.basename(f"{n_conta}_Claro GR Servico {estado}" + "_" + f"{vencimento}" + "_" + f"ref-{referencia}.pdf") #padrao para NF servico
         nome_sql = (f"Claro GR Servico {estado}")
     else:       
